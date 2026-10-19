@@ -1099,7 +1099,7 @@ export const ui = {
     },
     footer: {
       tagline: 'MIT ライセンス準拠のオープンソース • 100% ブラウザ内 WebAssembly 処理',
-      tipDev: '開発者をサポートする (Buy me a coffee)',
+      tipDev: '開発者をサポートする (Ko-fi)',
       howItWorks: '使い方',
       features: '機能一覧',
       faq: 'よくある質問',

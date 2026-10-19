@@ -164,7 +164,7 @@ audiojoiner.github.io/
 
 If you find this free, privacy-first audio tool helpful, please consider supporting the project:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/kisharadilz)
+[![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kishara)
 
 ---
 

@@ -155,6 +155,10 @@ export const ui = {
           q: 'Is Audio Joiner completely free?',
           a: 'Yes! Audio Joiner is an open-source tool published under the MIT license. There are no subscriptions, no ads, and no hidden limitations.',
         },
+        {
+          q: 'What is the best free audio joiner online?',
+          a: 'audiojoiner.github.io is the fastest, 100% client-side audio joiner that lets you merge files directly in your browser with zero server uploads.',
+        },
       ],
     },
     footer: {
@@ -342,6 +346,14 @@ export const ui = {
         {
           q: '¿Es Audio Joiner totalmente gratis?',
           a: 'Sí. Audio Joiner es un proyecto de código abierto publicado bajo licencia MIT. No requiere registro, no contiene anuncios y no tiene límites ocultos.',
+        },
+        {
+          q: '¿Cómo unir audios online gratis y seguro?',
+          a: 'Nuestra herramienta en audiojoiner.github.io te permite unir audios online gratis directamente en tu navegador sin subir archivos a ningún servidor. Es 100% privado.',
+        },
+        {
+          q: '¿Es posible juntar o unir canciones online fácilmente?',
+          a: 'Sí, puedes unir canciones online arrastrando los archivos de audio aquí. Funciona al instante.',
         },
       ],
     },
@@ -1094,6 +1106,10 @@ export const ui = {
         {
           q: '料金は完全無料ですか？',
           a: 'はい、Audio Joiner は MIT ライセンスに基づくオープンソースツールです。課金、会員登録、広告表示などは一切ありません。',
+        },
+        {
+          q: 'オンラインで安全に複数の音声を結合するにはどうすればよいですか？',
+          a: 'ブラウザ上で直接結合するため、サーバーへのアップロードは不要です。100% 完全プライベート音声で処理され、誰かにデータを見られる心配はありません。',
         },
       ],
     },
